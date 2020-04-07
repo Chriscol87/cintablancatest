@@ -1,0 +1,87 @@
+.fondo{
+    background-color: darkblue;
+    border: solid 2px darkblue;
+    width: 100vw;
+    height: 100vh;
+ }
+
+.box1{
+    background-color: darkblue;
+    border: solid 2px darkblue;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+}
+
+.izqa1{
+    background-color: white;
+    border: solid 0px white;
+    width: 30%;
+    height: 90%;
+}
+
+.dera1{
+    background-color: white;
+    border: solid 0px white;
+    width: 68%;
+    height: 90%;
+    margin-left: 50px;
+}
+
+.izqa2{
+    background-color: red;
+    border: solid 0px red;
+    width: 95%;
+    height: 90%;
+}
+
+.dera2{
+    background-color: red;
+    border: solid 0px red;
+    width: 98%;
+    height: 90%;
+    margin-left: 20px;
+}
+
+
+.box2{
+    background-color: darkblue;
+    border: solid 2px darkblue;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+}
+
+.izqb1{
+    background-color: white;
+    border: solid 2px white;
+    width: 30%;
+    height: 95%;
+    margin-top: 20px;
+}
+
+.derb1{
+    background-color: white;
+    border: solid 0px white;
+    width: 68%;
+    height: 95%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.izqb2{
+    background-color: red;
+    border: solid 2px red;
+    width: 95%;
+    height: 95%;
+    margin-top: 20px;
+ }
+
+ .derb2{
+    background-color: red;
+    border: solid 0px red;
+    width: 98%;
+    height: 95%;
+    margin-left: 20px;
+    margin-top: 20px;
+}

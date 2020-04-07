@@ -1,0 +1,124 @@
+body{
+
+    margin: 0;
+    padding: 0cm;
+}
+
+.padre1{
+border: solid 1px black;
+width: 300px;
+height: 600px;
+display: flex;
+/*horizontal*/
+justify-content: space-evenly;
+/*verticall*/
+align-items: center;
+flex-direction: column;
+margin: 20px;
+}
+
+.hijo{
+    border: solid 1px black;
+    width:60%;
+    height: 20%;
+    display: flex;
+    /*horizontal*/
+    justify-content: space-evenly;
+    /*verticall*/
+    align-items: center;
+    margin: 5 px;
+}
+
+}
+
+.nieto1{
+    border: solid 1px black;
+    width: 20%;
+    height: 20%;
+
+}
+
+.nieto2{
+    border: solid 1px black;
+    width: 20%;
+    height: 20%;
+
+}
+
+.nieto3{
+    border: solid 1px black;
+    width: 20%;
+    height: 20%;
+
+}
+
+.padre2{
+    border: solid 1px black;
+    width: 300px;
+    height: 600px;
+    display: flex;
+    /*horizontal*/
+    justify-content: space-evenly;
+    /*verticall*/
+    align-items: center;
+    flex-direction: column;
+    margin: 400px;
+    }
+    
+    .hijo2-1{
+        border: solid 1px black;
+        width:60%;
+        height: 20%;
+        display: flex;
+        /*horizontal*/
+        justify-content: space-evenly;
+        /*verticall*/
+        align-items: center;
+        margin: 5 px;
+    }
+    
+    .hijo2-2{
+        border: solid 1px black;
+        width:60%;
+        height: 20%;
+        display: flex;
+        /*horizontal*/
+        justify-content: center;
+        /*verticall*/
+        align-items: center;
+        flex-direction: column;
+        margin: 5 px;
+    }
+    
+    .hijo2-3{
+        border: solid 1px black;
+        width:60%;
+        height: 20%;
+        display: flex;
+        /*horizontal*/
+        justify-content: space-evenly;
+        /*verticall*/
+        align-items: center;
+        margin: 5 px;
+    }
+    
+    .nieto2-1{
+        border: solid 1px black;
+        width: 20%;
+        height: 20%;
+    
+    }
+    
+    .nieto2-2{
+        border: solid 1px black;
+        width: 20%;
+        height: 20%;
+    
+    }
+    
+    .nieto2-3{
+        border: solid 1px black;
+        width: 20%;
+        height: 20%;
+    
+    }

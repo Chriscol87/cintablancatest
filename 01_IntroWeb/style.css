@@ -1,0 +1,26 @@
+* {
+    background-color: orange
+}
+
+h1{ color: rgb(2, 19, 56);
+    font-size: x-large;
+    font-weight: 200;
+    font-style: oblique;
+
+}
+
+h2{
+    font-size: medium;
+    font-style: normal;
+    font-weight: 200;
+}
+
+h3{
+    font-size: x-large;
+
+
+}
+}
+img{ width: 400px;
+
+}
